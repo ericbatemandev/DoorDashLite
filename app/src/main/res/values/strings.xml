@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">DoorDash Lite</string>
 
+    <!-- Error -->
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="generic_error">Sorry, an error occurred</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="discover_fragment_label">Discover</string>
 
