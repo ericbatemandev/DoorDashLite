@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/release*
+
+*.apk
+
+app/app.iml
+build_file_checksums.ser
+output.json
