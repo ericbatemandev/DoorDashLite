@@ -1,7 +1,8 @@
-package com.ericbatemandev.doordashlite
+package com.ericbatemandev.doordashlite.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.ericbatemandev.doordashlite.R
 
 class MainActivity : AppCompatActivity() {
 
