@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">DoorDash Lite</string>
 
+    <string name="delivery_time">%d Mins</string>
+
     <!-- Error -->
     <string name="network_unavailable">Network unavailable</string>
     <string name="generic_error">Sorry, an error occurred</string>
