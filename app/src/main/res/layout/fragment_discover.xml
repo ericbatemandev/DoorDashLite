@@ -12,4 +12,12 @@
         android:layout_height="wrap_content"
         tools:listitem="@layout/item_restaurant"
         app:layoutManager="LinearLayoutManager"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        tools:visibility="visible" />
 </FrameLayout>

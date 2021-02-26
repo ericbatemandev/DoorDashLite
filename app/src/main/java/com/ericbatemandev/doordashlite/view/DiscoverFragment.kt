@@ -12,6 +12,7 @@ import com.ericbatemandev.doordashlite.databinding.FragmentDiscoverBinding
 import com.ericbatemandev.doordashlite.network.Result
 import com.ericbatemandev.doordashlite.viewmodel.RestaurantsViewModel
 import com.ericbatemandev.doordashlite.widget.VerticalItemDecoration
+import com.google.android.material.snackbar.Snackbar
 
 /**
  * Fragment to display a basic list of restaurants
@@ -37,13 +38,26 @@ class DiscoverFragment : Fragment() {
         binding.rvRestaurants.addItemDecoration(VerticalItemDecoration(requireContext()))
 
         viewModel.restaurantsLiveData.observe(viewLifecycleOwner, { result ->
+            showProgress(false)
             when (result) {
                 is Result.Success -> {
                     adapter.submitList(result.body.restaurantList)
                 }
+                is Result.Failure -> {
+                    Snackbar.make(requireView(), R.string.oops, Snackbar.LENGTH_SHORT).show()
+                }
             }
         })
         viewModel.fetchRestaurantData(requireContext())
+        showProgress(true)
+    }
+
+    private fun showProgress(show: Boolean) {
+        if (show) {
+            binding.progressBar.visibility = View.VISIBLE
+        } else {
+            binding.progressBar.visibility = View.GONE
+        }
     }
 
     override fun onDestroyView() {

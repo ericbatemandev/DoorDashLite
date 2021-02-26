@@ -6,6 +6,7 @@
     <!-- Error -->
     <string name="network_unavailable">Network unavailable</string>
     <string name="generic_error">Sorry, an error occurred</string>
+    <string name="oops">Uh oh, an error occurred!</string>
 
     <!-- Strings used for fragments for navigation -->
     <string name="discover_fragment_label">Discover</string>
