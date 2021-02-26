@@ -10,12 +10,12 @@ import com.ericbatemandev.doordashlite.network.Result
 import kotlinx.coroutines.launch
 
 class RestaurantsViewModel : ViewModel() {
-    val restaurantsResult: MutableLiveData<Result<RestaurantsResponse>> = MutableLiveData()
+    val restaurantsLiveData: MutableLiveData<Result<RestaurantsResponse>> = MutableLiveData()
 
     fun fetchRestaurantData(context: Context) {
         viewModelScope.launch {
             val response = NetworkClient.getRestaurants(context)
-            restaurantsResult.value = response
+            restaurantsLiveData.value = response
         }
     }
 }
