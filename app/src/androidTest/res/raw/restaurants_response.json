@@ -1,0 +1,294 @@
+{
+  "num_results": 614,
+  "is_first_time_user": true,
+  "sort_order": "",
+  "next_offset": 2,
+  "show_list_as_pickup": false,
+  "stores": [
+    {
+      "is_consumer_subscription_eligible": true,
+      "promotion_delivery_fee": 0,
+      "delivery_fee": 0,
+      "delivery_fee_monetary_fields": {
+        "currency": "USD",
+        "display_string": "$0.00",
+        "unit_amount": 0,
+        "decimal_places": 2
+      },
+      "num_ratings": 0,
+      "id": 62087,
+      "extra_sos_delivery_fee_monetary_fields": {
+        "currency": "USD",
+        "display_string": "$0.00",
+        "unit_amount": 0,
+        "decimal_places": 2
+      },
+      "menus": [
+        {
+          "popular_items": [
+            {
+              "price": 1749,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/d666983b-9716-4690-8904-c3117e2c698b-retina-large.jpg",
+              "description": "Our Impossible plant-based patty loaded with melted cheddar, smoked bacon, crispy onions, Memphis-style bbq sauce on a toasted, artisan bun",
+              "name": "Impossible BBQ Bacon",
+              "id": 401283970
+            },
+            {
+              "price": 1749,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/ac274851-0696-4ce0-994e-52ecb8a2138e-retina-large.jpg",
+              "description": "Our Impossible plant-based patty loaded with melted cheddar, smoked bacon, crispy onions, Memphis-style bbq sauce on a toasted, artisan bun",
+              "name": "Impossible BBQ Bacon",
+              "id": 400777946
+            },
+            {
+              "price": 1599,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/71bbc85b-9158-42cf-8b81-19272c97f867-retina-large-jpeg",
+              "description": "Our signature MeltBurger made with an Impossibleâ„¢ plant-based patty that looks &amp; tastes just like beef. Loaded with  melted swiss, fresh spinach, grilled mushrooms, crispy onions, aioli (grilled medium, pink &amp;  juicy)",
+              "name": "Impossible Swiss&amp;Shroom",
+              "id": 400777923
+            },
+            {
+              "price": 1599,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/d08ab468-0a18-4ab9-b7ef-d852f3e6409b-retina-large-jpeg",
+              "description": "Our signature MeltBurger made with an Impossibleâ„¢ plant-based patty that looks &amp; tastes just like beef. Loaded with melted pepper jack, sliced jalapeÃ±os, fresh avocado, lettuce, pickled onions, spicy ketchup (grilled medium, pink &amp; juicy)",
+              "name": "Impossible Spicy Mission",
+              "id": 400777948
+            },
+            {
+              "price": 1499,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/190f39c8-225e-442b-a9f3-b54804b8f9e7-retina-large-jpeg",
+              "description": "Our signature MeltBurger made with an Impossibleâ„¢ plant-based patty that looks &amp; tastes just like beef. Loaded with melted cheddar, jalapeÃ±o-pickle mix (not too spicy, we promise) and Melt sauce on a toasted, artisan bun.",
+              "name": "Impossible MeltBurger",
+              "id": 400777937
+            }
+          ],
+          "subtitle": "The Melt Menu",
+          "id": 1861624,
+          "name": "Doordash Retail",
+          "is_catering": false
+        }
+      ],
+      "average_rating": 0,
+      "location": {
+        "lat": 37.44309616088867,
+        "lng": -122.17276763916016
+      },
+      "status": {
+        "unavailable_reason": null,
+        "pickup_available": true,
+        "asap_available": true,
+        "scheduled_available": false,
+        "asap_minutes_range": [
+          54,
+          54
+        ]
+      },
+      "display_delivery_fee": "Free delivery",
+      "description": "Burgers, Fast Food, Sandwiches, American, Vegetarian, Gluten-Free, Salads",
+      "business_id": 3289,
+      "extra_sos_delivery_fee": 0,
+      "cover_img_url": "https://cdn.doordash.com/media/restaurant/cover/The-Melt.png",
+      "header_img_url": "https://cdn.doordash.com/media/store/carousel/The_Melt_Header.jpg",
+      "price_range": 1,
+      "name": "The Melt",
+      "is_newly_added": false,
+      "url": "/store/the-melt-palo-alto-62087/",
+      "next_close_time": "2021-02-27T07:45:00Z",
+      "next_open_time": "2021-02-26T19:49:12Z",
+      "service_rate": null,
+      "distance_from_consumer": 2.284567578106769,
+      "merchant_promotions": [
+        {
+          "category_new_store_customers_only": false,
+          "minimum_subtotal_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$15.00",
+            "decimal_places": 2,
+            "unit_amount": 1500
+          },
+          "daypart_constraints": [],
+          "delivery_fee": 0,
+          "delivery_fee_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": 0
+          },
+          "minimum_subtotal": 1500,
+          "id": 37641
+        },
+        {
+          "category_new_store_customers_only": false,
+          "minimum_subtotal_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "daypart_constraints": [],
+          "delivery_fee": null,
+          "delivery_fee_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "minimum_subtotal": null,
+          "id": 38901
+        },
+        {
+          "category_new_store_customers_only": false,
+          "minimum_subtotal_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "daypart_constraints": [],
+          "delivery_fee": null,
+          "delivery_fee_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "minimum_subtotal": null,
+          "id": 38900
+        }
+      ]
+    },
+    {
+      "is_consumer_subscription_eligible": true,
+      "promotion_delivery_fee": 0,
+      "delivery_fee": 0,
+      "delivery_fee_monetary_fields": {
+        "currency": "USD",
+        "display_string": "$0.00",
+        "unit_amount": 0,
+        "decimal_places": 2
+      },
+      "num_ratings": 0,
+      "id": 573517,
+      "extra_sos_delivery_fee_monetary_fields": {
+        "currency": "USD",
+        "display_string": "$0.00",
+        "unit_amount": 0,
+        "decimal_places": 2
+      },
+      "menus": [
+        {
+          "popular_items": [
+            {
+              "price": 1596,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/e6d50cc4-9a66-43b4-91a4-32dd7ca3867f-retina-large-jpeg",
+              "description": "shaved, roasted chicken breast, chopped romaine, spinach, nitrate-free Applewood smoked bacon, crumbled blue cheese, avocado, grape tomatoes, red onions, hard boiled egg (510 cal) with mustard shallot vinaigrette (240 cal)\r\n\r\ncontains gluten in the ingredients and cannot be requested gluten free\r\n\r\n**Some of our locations are temporarily out of eggs, so this item may be excluded from your salad due to availability**",
+              "name": "Chicken Cobb Salad ",
+              "id": 196159197
+            },
+            {
+              "price": 1562,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/267de88a-865a-44b5-9fff-3edca05e1c15-retina-large-jpeg",
+              "description": "prosciutto &amp; shaved, roasted chicken breast, roasted carrots, BelGioioso fresh mozzarella, crushed honey roasted almonds, marinated red peppers, red onions, grape tomatoes, mixed greens, chopped romaine (550 cal) with basil pesto balsamic vinaigrette (230 cal)\r\n\r\ngluten free",
+              "name": "The Sophisticated Chicken &amp; Prosciutto Salad",
+              "id": 196159203
+            },
+            {
+              "price": 1540,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/97dabb80-af38-4b7b-b893-7896cc4decb4-retina-large-jpeg",
+              "description": "shaved, roasted chicken breast, napa cabbage &amp; kale slaw with carrots &amp; bean sprouts, baby spinach, chopped romaine, scallions, cilantro, toasted cashews, crispy wontons (420 cal) with miso mustard sesame dressing (240 cal)\r\n\r\nMake it vegan by substituting the chicken for organic marinated baked tofu!\r\n\r\ncontains gluten in the ingredients and cannot be requested gluten free",
+              "name": "Mama Chenâ€™s Chinese Chicken Salad",
+              "id": 196159194
+            },
+            {
+              "price": 1540,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/fcd24b80-089c-49c0-8bf0-ab738a500c11-retina-large-jpeg",
+              "description": "shaved, roasted chicken breast, Herbes de Provence marinated Drake Family Farmâ€™s goat cheese, pink lady beets, green apples, dried cranberries, crushed honey roasted almonds, red onions, mixed greens, chopped romaine (620 cal) with citrus vinaigrette (240 cal)\r\n\r\ngluten free",
+              "name": "Saved Drake Farm's Salad",
+              "id": 196159217
+            },
+            {
+              "price": 1506,
+              "img_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photos/d5af4992-4241-408c-a3f4-f8f88eaa7092-retina-large-jpeg",
+              "description": "spicy aji amarillo marinated steak with Oaxacan cheese, herb aioli, red onions, tomatoes, shredded romaine (520 cal) on pressed torta bun (310 cal) + avocado $1.25 (80 cal)\r\n\r\ncan be requested gluten free by selecting the gf bread option",
+              "name": "Peruvian Steak Sandwich",
+              "id": 196159231
+            }
+          ],
+          "subtitle": "Mendocino Farms Menu",
+          "id": 1709946,
+          "name": "mendocino farms palo alto all day - 9/7/20-allday",
+          "is_catering": false
+        }
+      ],
+      "average_rating": 0,
+      "location": {
+        "lat": 37.44362258911133,
+        "lng": -122.16213989257812
+      },
+      "status": {
+        "unavailable_reason": null,
+        "pickup_available": true,
+        "asap_available": true,
+        "scheduled_available": false,
+        "asap_minutes_range": [
+          46,
+          46
+        ]
+      },
+      "display_delivery_fee": "Free delivery",
+      "description": "Sandwiches, Salads, Sandwich, Healthy, American (New), American, Takeout, Pickup",
+      "business_id": 944,
+      "extra_sos_delivery_fee": 0,
+      "cover_img_url": "https://cdn.doordash.com/media/restaurant/cover/DD_Test_Logo.png",
+      "header_img_url": "https://cdn.doordash.com/media/store/carousel/Carousel_header_image-_mendo_1.png",
+      "price_range": 1,
+      "name": "Mendocino Farms",
+      "is_newly_added": false,
+      "url": "/store/mendocino-farms-palo-alto-573517/",
+      "next_close_time": "2021-02-27T04:00:00Z",
+      "next_open_time": "2021-02-26T19:49:12Z",
+      "service_rate": null,
+      "distance_from_consumer": 1.8876876583649658,
+      "merchant_promotions": [
+        {
+          "category_new_store_customers_only": false,
+          "minimum_subtotal_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "daypart_constraints": [],
+          "delivery_fee": null,
+          "delivery_fee_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "minimum_subtotal": null,
+          "id": 38901
+        },
+        {
+          "category_new_store_customers_only": false,
+          "minimum_subtotal_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "daypart_constraints": [],
+          "delivery_fee": null,
+          "delivery_fee_monetary_fields": {
+            "currency": "USD",
+            "display_string": "$0.00",
+            "decimal_places": 2,
+            "unit_amount": null
+          },
+          "minimum_subtotal": null,
+          "id": 38900
+        }
+      ]
+    }
+  ]
+}
